@@ -1,0 +1,4 @@
+FileName: ziptest1.txt
+ZipStream test:
+This file is created to test ZipStream test.
+Last line.

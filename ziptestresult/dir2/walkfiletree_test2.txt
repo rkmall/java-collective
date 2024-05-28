@@ -1,0 +1,4 @@
+FileName: walkfiletree_test2.txt
+Test file to test walkFileTree method.
+Line.
+Line.

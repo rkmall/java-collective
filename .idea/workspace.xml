@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="faaca73c-b56a-4694-a9a7-c1097e41f5c5" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="fundamentals" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2NmdlEUKqLz3bGHdGiAZ8VoJ8r4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.fundamentals [:BufferedReaderWriterTest.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.fundamentals [:ByteArrayIOStreamEx.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.fundamentals [:CallableExDriver.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.fundamentals [:CallbackRunner.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.fundamentals [:ClassesAndObjectEx.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.fundamentals [:CompletableFutureExDriver.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.fundamentals [:Driver.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.fundamentals [:FIleReaderWriterTest.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.fundamentals [:FileIOStreamTest.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.fundamentals [:MemoryAllocEx.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.fundamentals [:Test1.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.fundamentals [:UseCaseDriver.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.fundamentals [:UseCases.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.fundamentals [:UserVsDaemonThread.main()].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/rupeshmall/Documents/RMFiles/Java/Projects/fundamentals&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.43165466&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.fileTypes&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="b_oop.d_innerclasses.intro" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ziptestresult/dir1/dir10" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/ziptestresult" />
+      <recent name="$PROJECT_DIR$/nioLoggerDir" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.FileIOStreamTest">
+    <configuration name="BufferedReaderWriterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h_io_nio.io.b_characterstreams.BufferedReaderWriterTest" />
+      <module name="fundamentals.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="h_io_nio.io.b_characterstreams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ByteArrayIOStreamEx (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h_io_nio.io.a_bytestreams.ByteArrayIOStreamEx" />
+      <module name="fundamentals.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="h_io_nio.io.a_bytestreams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ByteArrayIOStreamEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h_io_nio.io.a_bytestreams.ByteArrayIOStreamEx" />
+      <module name="fundamentals.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="h_io_nio.io.a_bytestreams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FIleReaderWriterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h_io_nio.io.b_characterstreams.FIleReaderWriterTest" />
+      <module name="fundamentals.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="h_io_nio.io.b_characterstreams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileIOStreamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h_io_nio.io.a_bytestreams.FileIOStreamTest" />
+      <module name="fundamentals.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="h_io_nio.io.a_bytestreams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FileIOStreamTest" />
+        <item itemvalue="Application.BufferedReaderWriterTest" />
+        <item itemvalue="Application.FIleReaderWriterTest" />
+        <item itemvalue="Application.ByteArrayIOStreamEx (1)" />
+        <item itemvalue="Application.ByteArrayIOStreamEx" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="faaca73c-b56a-4694-a9a7-c1097e41f5c5" name="Changes" comment="" />
+      <created>1680273339279</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680273339279</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/e_exceptions/exception_handling/ExceptionHandlingExDriver.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/h_io_nio/nio/a_filefilespathpaths/student_ex/StudentExDriver.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/h_io_nio/nio/a_filefilespathpaths/student_ex/StudentExDriver.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/h_io_nio/io/a_bytestreams/ByteArrayIOStreamEx.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

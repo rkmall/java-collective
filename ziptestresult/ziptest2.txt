@@ -1,0 +1,3 @@
+FileName: ziptest2.txt
+ZipStream test:
+
